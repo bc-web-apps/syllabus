@@ -14,9 +14,6 @@ The purpose of this course is to be able to understand the fundamentals of and c
 10. Building
 11. Demo
 
-### API Lab:
-Using your unique credentials and an API developmenet enviroment (see [Postman](https://www.getpostman.com/)), you will complete weekly assignments interacting with a production API. Activities will also include basic CRUD operations and the eventual integration into your project. This will provide a solud foundation for introducing restful API's and database standards.
-
 
 ## 1. HTTP Requests + GitHub
 Objective: Understand the basic types of web requests used to communicate and how they differ. By the conclusion of this section, students will be able to differentiate between different HTTP requests and formulate their own based on given criteria. 
@@ -89,15 +86,13 @@ Objective: Students will apply what they learned with routing and databases to c
 Objective: we will show various deployment options and how to configure Heroku for your applications. We'll also get AWS set up and show you how you can use that for projects and applications.
 
 ## 8. Final Project
-Students will be able to build a personal website. This will feature their picture and basic facts about themselves such as hometown, favorite books, songs, animals, etc. Information will be stored on their database and passed to their view. Students should be able to edit and delete data after they login.
-
-We will dedicate 3 classes to covering additoinal topics or assisting in the creation of your personal websites.
+We will dedicate 3 classes to covering additional topics or assisting in the creation of your personal websites.
 
 
 ## Other Topics, a plethora of other things that can **now** be taught or explained:
 - React + Vue: show the use cases for this and how a virtual dom can benefit users (why reload the entire page?! It all makes sense when you just spent 3 months making painstaking webpages).
 - Frontend Javascript/JQuery: adding interactivity without React + Vue
-- Bootsrap: why write your own styling? Use professionally developed CSS that automatically adapts to orientation and size changes.
+- Bootstrap: why write your own styling? Use professionally developed CSS that automatically adapts to orientation and size changes.
 - Test Driven Development: building applications that think about testing from the beginning. 
 - Web Hosting: going from local development to production servers and utilizing AWS and other services to host every part of your stack in the cloud
 - Queues: offloading intensive tasks to background workers
